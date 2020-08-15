@@ -3,3 +3,6 @@ first_number = 2
 second_number = 4
 
 sum = first_number + second_number
+subtract = first_number - second_number
+product = first_number * second_number
+division = first_number / second_number
